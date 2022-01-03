@@ -1,31 +1,19 @@
 +++
 author = "lcomedy"
-
 title = "手把手教你搭建博客网站"
-
 date = "2022-01-01"
-
 description = "通过公有云资源，利用开源工具快速搭建一个自己的个性博客网站"
-
 tags = [
     "blog",
-
-​    "hugo",
-
-​	"pratice",
-
-​    "cicd",
+    "hugo",
+    "pratice",
+    "cicd",
 ]
 categories = [
-
-​    "themes",
-
-​    "syntax",
-
+    "themes",
+    "syntax",
 ]
-
 series = ["博客网站"]
-
 aliases = ["搭建博客网站"]
 
 +++
