@@ -10,8 +10,7 @@ tags = [
     "cicd",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "pratice",
 ]
 series = ["博客网站"]
 aliases = ["搭建博客网站"]
