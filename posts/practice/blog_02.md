@@ -89,7 +89,7 @@ pip3 install flask
        signature = request.headers.get('X-Hub-Signature', '').split('=')[-1]
        if signature != token:
            return "token is not vaild", 401
-       os.system('sh deploy.sh')
+       os.system('sh /opt/webhook/deploy.sh')
        return jsonify({"status": 200})
    
    if __name__ == '__main__':
